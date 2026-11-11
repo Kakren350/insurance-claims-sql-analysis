@@ -1,0 +1,251 @@
+﻿Claim_ID,Policy_ID,Claim_Date,Policy_Type,Region,Claim_type,Claim_Status,Incurred_Amount,Paid_Amount, Recognised_Incurred 
+CLM-0001,POL-0001,1/27/2025,Motor,Nairobi,Accident,Paid,"KES 5,274","KES 5,274"," KES 5,274 "
+CLM-0002,POL-0008,6/8/2025,Life,Rift Valley,Medical,Pending,"KES 5,411",KES 0," KES 5,411 "
+CLM-0003,POL-0015,10/18/2025,Property,Western,Theft,Rejected,"KES 5,548",KES 0, KES - 
+CLM-0004,POL-0022,2/27/2026,Health,Central,Property Damage,Paid,"KES 5,685","KES 5,685"," KES 5,685 "
+CLM-0005,POL-0029,7/9/2025,Motor,Coast,Accident,Pending,"KES 5,822",KES 0," KES 5,822 "
+CLM-0006,POL-0036,11/18/2025,Life,Nairobi,Medical,Rejected,"KES 5,959",KES 0, KES - 
+CLM-0007,POL-0043,3/30/2026,Property,Rift Valley,Theft,Paid,"KES 6,096","KES 6,096"," KES 6,096 "
+CLM-0008,POL-0050,8/9/2025,Health,Western,Property Damage,Pending,"KES 6,233",KES 0," KES 6,233 "
+CLM-0009,POL-0057,12/19/2025,Motor,Central,Accident,Rejected,"KES 6,370",KES 0, KES - 
+CLM-0010,POL-0064,4/30/2026,Life,Coast,Medical,Paid,"KES 6,507","KES 6,507"," KES 6,507 "
+CLM-0011,POL-0071,9/9/2025,Property,Nairobi,Theft,Pending,"KES 6,644",KES 0," KES 6,644 "
+CLM-0012,POL-0078,1/19/2026,Health,Rift Valley,Property Damage,Rejected,"KES 6,781",KES 0, KES - 
+CLM-0013,POL-0085,5/31/2026,Motor,Western,Accident,Paid,"KES 6,918","KES 6,918"," KES 6,918 "
+CLM-0014,POL-0092,10/10/2025,Life,Central,Medical,Pending,"KES 7,055",KES 0," KES 7,055 "
+CLM-0015,POL-0099,2/19/2026,Property,Coast,Theft,Rejected,"KES 7,192",KES 0, KES - 
+CLM-0016,POL-0106,7/1/2026,Health,Nairobi,Property Damage,Paid,"KES 7,329","KES 7,329"," KES 7,329 "
+CLM-0017,POL-0113,11/10/2025,Motor,Rift Valley,Accident,Pending,"KES 7,466",KES 0," KES 7,466 "
+CLM-0018,POL-0120,3/22/2026,Life,Western,Medical,Rejected,"KES 7,603",KES 0, KES - 
+CLM-0019,POL-0127,8/1/2026,Property,Central,Theft,Paid,"KES 7,740","KES 7,740"," KES 7,740 "
+CLM-0020,POL-0134,12/11/2025,Health,Coast,Property Damage,Pending,"KES 7,877",KES 0," KES 7,877 "
+CLM-0021,POL-0141,4/22/2026,Motor,Nairobi,Accident,Rejected,"KES 8,014",KES 0, KES - 
+CLM-0022,POL-0148,9/1/2026,Life,Rift Valley,Medical,Paid,"KES 8,151","KES 8,151"," KES 8,151 "
+CLM-0023,POL-0155,1/11/2026,Property,Western,Theft,Pending,"KES 8,288",KES 0," KES 8,288 "
+CLM-0024,POL-0162,5/23/2026,Health,Central,Property Damage,Rejected,"KES 8,425",KES 0, KES - 
+CLM-0025,POL-0169,10/2/2026,Motor,Coast,Accident,Paid,"KES 8,562","KES 8,562"," KES 8,562 "
+CLM-0026,POL-0176,2/11/2026,Life,Nairobi,Medical,Pending,"KES 8,699",KES 0," KES 8,699 "
+CLM-0027,POL-0183,6/23/2026,Property,Rift Valley,Theft,Rejected,"KES 8,836",KES 0, KES - 
+CLM-0028,POL-0190,11/2/2025,Health,Western,Property Damage,Paid,"KES 8,973","KES 8,973"," KES 8,973 "
+CLM-0029,POL-0197,3/14/2025,Motor,Central,Accident,Pending,"KES 9,110",KES 0," KES 9,110 "
+CLM-0030,POL-0204,7/24/2025,Life,Coast,Medical,Rejected,"KES 9,247",KES 0, KES - 
+CLM-0031,POL-0211,12/3/2025,Property,Nairobi,Theft,Paid,"KES 9,384","KES 9,384"," KES 9,384 "
+CLM-0032,POL-0218,4/14/2025,Health,Rift Valley,Property Damage,Pending,"KES 9,521",KES 0," KES 9,521 "
+CLM-0033,POL-0225,8/24/2025,Motor,Western,Accident,Rejected,"KES 9,658",KES 0, KES - 
+CLM-0034,POL-0232,1/3/2026,Life,Central,Medical,Paid,"KES 9,795","KES 9,795"," KES 9,795 "
+CLM-0035,POL-0239,5/15/2025,Property,Coast,Theft,Pending,"KES 9,932",KES 0," KES 9,932 "
+CLM-0036,POL-0246,9/24/2025,Health,Nairobi,Property Damage,Rejected,"KES 10,069",KES 0, KES - 
+CLM-0037,POL-0253,2/3/2026,Motor,Rift Valley,Accident,Paid,"KES 10,206","KES 10,206"," KES 10,206 "
+CLM-0038,POL-0260,6/15/2025,Life,Western,Medical,Pending,"KES 10,343",KES 0," KES 10,343 "
+CLM-0039,POL-0267,10/25/2025,Property,Central,Theft,Rejected,"KES 10,480",KES 0, KES - 
+CLM-0040,POL-0274,3/6/2026,Health,Coast,Property Damage,Paid,"KES 10,617","KES 10,617"," KES 10,617 "
+CLM-0041,POL-0281,7/16/2025,Motor,Nairobi,Accident,Pending,"KES 10,754",KES 0," KES 10,754 "
+CLM-0042,POL-0288,11/25/2025,Life,Rift Valley,Medical,Rejected,"KES 10,891",KES 0, KES - 
+CLM-0043,POL-0295,4/6/2026,Property,Western,Theft,Paid,"KES 11,028","KES 11,028"," KES 11,028 "
+CLM-0044,POL-0302,8/16/2025,Health,Central,Property Damage,Pending,"KES 11,165",KES 0," KES 11,165 "
+CLM-0045,POL-0309,12/26/2025,Motor,Coast,Accident,Rejected,"KES 11,302",KES 0, KES - 
+CLM-0046,POL-0316,5/7/2026,Life,Nairobi,Medical,Paid,"KES 11,439","KES 11,439"," KES 11,439 "
+CLM-0047,POL-0323,9/16/2026,Property,Rift Valley,Theft,Pending,"KES 11,576",KES 0," KES 11,576 "
+CLM-0048,POL-0330,1/26/2026,Health,Western,Property Damage,Rejected,"KES 11,713",KES 0, KES - 
+CLM-0049,POL-0337,6/7/2026,Motor,Central,Accident,Paid,"KES 11,850","KES 11,850"," KES 11,850 "
+CLM-0050,POL-0344,10/17/2026,Life,Coast,Medical,Pending,"KES 11,987",KES 0," KES 11,987 "
+CLM-0051,POL-0351,2/26/2026,Property,Nairobi,Theft,Rejected,"KES 12,124",KES 0, KES - 
+CLM-0052,POL-0358,7/8/2026,Health,Rift Valley,Property Damage,Paid,"KES 12,261","KES 12,261"," KES 12,261 "
+CLM-0053,POL-0365,11/17/2026,Motor,Western,Accident,Pending,"KES 12,398",KES 0," KES 12,398 "
+CLM-0054,POL-0372,3/29/2026,Life,Central,Medical,Rejected,"KES 12,535",KES 0, KES - 
+CLM-0055,POL-0379,8/8/2026,Property,Coast,Theft,Paid,"KES 12,672","KES 12,672"," KES 12,672 "
+CLM-0056,POL-0386,12/18/2025,Health,Nairobi,Property Damage,Pending,"KES 12,809",KES 0," KES 12,809 "
+CLM-0057,POL-0393,4/29/2025,Motor,Rift Valley,Accident,Rejected,"KES 12,946",KES 0, KES - 
+CLM-0058,POL-0400,9/8/2025,Life,Western,Medical,Paid,"KES 13,083","KES 13,083"," KES 13,083 "
+CLM-0059,POL-0407,1/18/2026,Property,Central,Theft,Pending,"KES 13,220",KES 0," KES 13,220 "
+CLM-0060,POL-0414,5/30/2025,Health,Coast,Property Damage,Rejected,"KES 13,357",KES 0, KES - 
+CLM-0061,POL-0421,10/9/2025,Motor,Nairobi,Accident,Paid,"KES 13,494","KES 13,494"," KES 13,494 "
+CLM-0062,POL-0428,2/18/2026,Life,Rift Valley,Medical,Pending,"KES 13,631",KES 0," KES 13,631 "
+CLM-0063,POL-0435,6/30/2025,Property,Western,Theft,Rejected,"KES 13,768",KES 0, KES - 
+CLM-0064,POL-0442,11/9/2025,Health,Central,Property Damage,Paid,"KES 13,905","KES 13,905"," KES 13,905 "
+CLM-0065,POL-0449,3/21/2026,Motor,Coast,Accident,Pending,"KES 14,042",KES 0," KES 14,042 "
+CLM-0066,POL-0456,7/31/2025,Life,Nairobi,Medical,Rejected,"KES 14,179",KES 0, KES - 
+CLM-0067,POL-0463,12/10/2025,Property,Rift Valley,Theft,Paid,"KES 14,316","KES 14,316"," KES 14,316 "
+CLM-0068,POL-0470,4/21/2026,Health,Western,Property Damage,Pending,"KES 14,453",KES 0," KES 14,453 "
+CLM-0069,POL-0477,8/31/2025,Motor,Central,Accident,Rejected,"KES 14,590",KES 0, KES - 
+CLM-0070,POL-0484,1/10/2026,Life,Coast,Medical,Paid,"KES 14,727","KES 14,727"," KES 14,727 "
+CLM-0071,POL-0491,5/22/2026,Property,Nairobi,Theft,Pending,"KES 14,864",KES 0," KES 14,864 "
+CLM-0072,POL-0498,10/1/2025,Health,Rift Valley,Property Damage,Rejected,"KES 15,001",KES 0, KES - 
+CLM-0073,POL-0005,10/28/2025,Motor,Western,Accident,Paid,"KES 15,138","KES 15,138"," KES 15,138 "
+CLM-0074,POL-0012,3/9/2026,Life,Central,Medical,Pending,"KES 15,275",KES 0," KES 15,275 "
+CLM-0075,POL-0019,7/19/2026,Property,Coast,Theft,Rejected,"KES 15,412",KES 0, KES - 
+CLM-0076,POL-0026,11/28/2025,Health,Nairobi,Property Damage,Paid,"KES 15,549","KES 15,549"," KES 15,549 "
+CLM-0077,POL-0033,4/9/2026,Motor,Rift Valley,Accident,Pending,"KES 15,686",KES 0," KES 15,686 "
+CLM-0078,POL-0040,8/19/2026,Life,Western,Medical,Rejected,"KES 15,823",KES 0, KES - 
+CLM-0079,POL-0047,12/29/2025,Property,Central,Theft,Paid,"KES 15,960","KES 15,960"," KES 15,960 "
+CLM-0080,POL-0054,5/10/2026,Health,Coast,Property Damage,Pending,"KES 16,097",KES 0," KES 16,097 "
+CLM-0081,POL-0061,9/19/2026,Motor,Nairobi,Accident,Rejected,"KES 16,234",KES 0, KES - 
+CLM-0082,POL-0068,1/29/2026,Life,Rift Valley,Medical,Paid,"KES 16,371","KES 16,371"," KES 16,371 "
+CLM-0083,POL-0075,6/10/2026,Property,Western,Theft,Pending,"KES 16,508",KES 0," KES 16,508 "
+CLM-0084,POL-0082,10/20/2025,Health,Central,Property Damage,Rejected,"KES 16,645",KES 0, KES - 
+CLM-0085,POL-0089,3/1/2025,Motor,Coast,Accident,Paid,"KES 16,782","KES 16,782"," KES 16,782 "
+CLM-0086,POL-0096,7/11/2025,Life,Nairobi,Medical,Pending,"KES 16,919",KES 0," KES 16,919 "
+CLM-0087,POL-0103,11/20/2025,Property,Rift Valley,Theft,Rejected,"KES 17,056",KES 0, KES - 
+CLM-0088,POL-0110,4/1/2025,Health,Western,Property Damage,Paid,"KES 17,193","KES 17,193"," KES 17,193 "
+CLM-0089,POL-0117,8/11/2025,Motor,Central,Accident,Pending,"KES 17,330",KES 0," KES 17,330 "
+CLM-0090,POL-0124,12/21/2025,Life,Coast,Medical,Rejected,"KES 17,467",KES 0, KES - 
+CLM-0091,POL-0131,5/2/2025,Property,Nairobi,Theft,Paid,"KES 17,604","KES 17,604"," KES 17,604 "
+CLM-0092,POL-0138,9/11/2025,Health,Rift Valley,Property Damage,Pending,"KES 17,741",KES 0," KES 17,741 "
+CLM-0093,POL-0145,1/21/2026,Motor,Western,Accident,Rejected,"KES 17,878",KES 0, KES - 
+CLM-0094,POL-0152,6/2/2025,Life,Central,Medical,Paid,"KES 18,015","KES 18,015"," KES 18,015 "
+CLM-0095,POL-0159,10/12/2025,Property,Coast,Theft,Pending,"KES 18,152",KES 0," KES 18,152 "
+CLM-0096,POL-0166,2/21/2026,Health,Nairobi,Property Damage,Rejected,"KES 18,289",KES 0, KES - 
+CLM-0097,POL-0173,7/3/2025,Motor,Rift Valley,Accident,Paid,"KES 18,426","KES 18,426"," KES 18,426 "
+CLM-0098,POL-0180,11/12/2025,Life,Western,Medical,Pending,"KES 18,563",KES 0," KES 18,563 "
+CLM-0099,POL-0187,3/24/2026,Property,Central,Theft,Rejected,"KES 18,700",KES 0, KES - 
+CLM-0100,POL-0194,8/3/2026,Health,Coast,Property Damage,Paid,"KES 18,837","KES 18,837"," KES 18,837 "
+CLM-0101,POL-0201,12/13/2025,Motor,Nairobi,Accident,Pending,"KES 18,974",KES 0," KES 18,974 "
+CLM-0102,POL-0208,4/24/2026,Life,Rift Valley,Medical,Rejected,"KES 19,111",KES 0, KES - 
+CLM-0103,POL-0215,9/3/2026,Property,Western,Theft,Paid,"KES 19,248","KES 19,248"," KES 19,248 "
+CLM-0104,POL-0222,1/13/2026,Health,Central,Property Damage,Pending,"KES 19,385",KES 0," KES 19,385 "
+CLM-0105,POL-0229,5/25/2026,Motor,Coast,Accident,Rejected,"KES 19,522",KES 0, KES - 
+CLM-0106,POL-0236,10/4/2026,Life,Nairobi,Medical,Paid,"KES 19,659","KES 19,659"," KES 19,659 "
+CLM-0107,POL-0243,2/13/2026,Property,Rift Valley,Theft,Pending,"KES 19,796",KES 0," KES 19,796 "
+CLM-0108,POL-0250,6/25/2026,Health,Western,Property Damage,Rejected,"KES 19,933",KES 0, KES - 
+CLM-0109,POL-0257,11/4/2026,Motor,Central,Accident,Paid,"KES 20,070","KES 20,070"," KES 20,070 "
+CLM-0110,POL-0264,3/16/2026,Life,Coast,Medical,Pending,"KES 20,207",KES 0," KES 20,207 "
+CLM-0111,POL-0271,7/26/2026,Property,Nairobi,Theft,Rejected,"KES 20,344",KES 0, KES - 
+CLM-0112,POL-0278,12/5/2025,Health,Rift Valley,Property Damage,Paid,"KES 20,481","KES 20,481"," KES 20,481 "
+CLM-0113,POL-0285,4/16/2025,Motor,Western,Accident,Pending,"KES 20,618",KES 0," KES 20,618 "
+CLM-0114,POL-0292,8/26/2025,Life,Central,Medical,Rejected,"KES 20,755",KES 0, KES - 
+CLM-0115,POL-0299,1/5/2026,Property,Coast,Theft,Paid,"KES 20,892","KES 20,892"," KES 20,892 "
+CLM-0116,POL-0306,5/17/2025,Health,Nairobi,Property Damage,Pending,"KES 21,029",KES 0," KES 21,029 "
+CLM-0117,POL-0313,9/26/2025,Motor,Rift Valley,Accident,Rejected,"KES 21,166",KES 0, KES - 
+CLM-0118,POL-0320,2/5/2026,Life,Western,Medical,Paid,"KES 21,303","KES 21,303"," KES 21,303 "
+CLM-0119,POL-0327,6/17/2025,Property,Central,Theft,Pending,"KES 21,440",KES 0," KES 21,440 "
+CLM-0120,POL-0334,10/27/2025,Health,Coast,Property Damage,Rejected,"KES 21,577",KES 0, KES - 
+CLM-0121,POL-0341,3/8/2026,Motor,Nairobi,Accident,Paid,"KES 21,714","KES 21,714"," KES 21,714 "
+CLM-0122,POL-0348,7/18/2025,Life,Rift Valley,Medical,Pending,"KES 21,851",KES 0," KES 21,851 "
+CLM-0123,POL-0355,11/27/2025,Property,Western,Theft,Rejected,"KES 21,988",KES 0, KES - 
+CLM-0124,POL-0362,4/8/2026,Health,Central,Property Damage,Paid,"KES 22,125","KES 22,125"," KES 22,125 "
+CLM-0125,POL-0369,8/18/2025,Motor,Coast,Accident,Pending,"KES 22,262",KES 0," KES 22,262 "
+CLM-0126,POL-0376,12/28/2025,Life,Nairobi,Medical,Rejected,"KES 22,399",KES 0, KES - 
+CLM-0127,POL-0383,5/9/2026,Property,Rift Valley,Theft,Paid,"KES 22,536","KES 22,536"," KES 22,536 "
+CLM-0128,POL-0390,9/18/2025,Health,Western,Property Damage,Pending,"KES 22,673",KES 0," KES 22,673 "
+CLM-0129,POL-0397,1/28/2026,Motor,Central,Accident,Rejected,"KES 22,810",KES 0, KES - 
+CLM-0130,POL-0404,6/9/2026,Life,Coast,Medical,Paid,"KES 22,947","KES 22,947"," KES 22,947 "
+CLM-0131,POL-0411,10/19/2025,Property,Nairobi,Theft,Pending,"KES 23,084",KES 0," KES 23,084 "
+CLM-0132,POL-0418,2/28/2026,Health,Rift Valley,Property Damage,Rejected,"KES 23,221",KES 0, KES - 
+CLM-0133,POL-0425,7/10/2026,Motor,Western,Accident,Paid,"KES 23,358","KES 23,358"," KES 23,358 "
+CLM-0134,POL-0432,11/19/2025,Life,Central,Medical,Pending,"KES 23,495",KES 0," KES 23,495 "
+CLM-0135,POL-0439,3/31/2026,Property,Coast,Theft,Rejected,"KES 23,632",KES 0, KES - 
+CLM-0136,POL-0446,8/10/2026,Health,Nairobi,Property Damage,Paid,"KES 23,769","KES 23,769"," KES 23,769 "
+CLM-0137,POL-0453,12/20/2025,Motor,Rift Valley,Accident,Pending,"KES 23,906",KES 0," KES 23,906 "
+CLM-0138,POL-0460,5/1/2026,Life,Western,Medical,Rejected,"KES 24,043",KES 0, KES - 
+CLM-0139,POL-0467,9/10/2026,Property,Central,Theft,Paid,"KES 24,180","KES 24,180"," KES 24,180 "
+CLM-0140,POL-0474,1/20/2025,Health,Coast,Property Damage,Pending,"KES 24,317",KES 0," KES 24,317 "
+CLM-0141,POL-0481,6/1/2025,Motor,Nairobi,Accident,Rejected,"KES 24,454",KES 0, KES - 
+CLM-0142,POL-0488,10/11/2025,Life,Rift Valley,Medical,Paid,"KES 24,591","KES 24,591"," KES 24,591 "
+CLM-0143,POL-0495,2/20/2025,Property,Western,Theft,Pending,"KES 24,728",KES 0," KES 24,728 "
+CLM-0144,POL-0002,3/19/2025,Health,Central,Property Damage,Rejected,"KES 24,865",KES 0, KES - 
+CLM-0145,POL-0009,7/29/2025,Motor,Coast,Accident,Paid,"KES 25,002","KES 25,002"," KES 25,002 "
+CLM-0146,POL-0016,12/8/2025,Life,Nairobi,Medical,Pending,"KES 25,139",KES 0," KES 25,139 "
+CLM-0147,POL-0023,4/19/2025,Property,Rift Valley,Theft,Rejected,"KES 25,276",KES 0, KES - 
+CLM-0148,POL-0030,8/29/2025,Health,Western,Property Damage,Paid,"KES 25,413","KES 25,413"," KES 25,413 "
+CLM-0149,POL-0037,1/8/2026,Motor,Central,Accident,Pending,"KES 25,550",KES 0," KES 25,550 "
+CLM-0150,POL-0044,5/20/2025,Life,Coast,Medical,Rejected,"KES 25,687",KES 0, KES - 
+CLM-0151,POL-0051,9/29/2025,Property,Nairobi,Theft,Paid,"KES 25,824","KES 25,824"," KES 25,824 "
+CLM-0152,POL-0058,2/8/2026,Health,Rift Valley,Property Damage,Pending,"KES 25,961",KES 0," KES 25,961 "
+CLM-0153,POL-0065,6/20/2026,Motor,Western,Accident,Rejected,"KES 26,098",KES 0, KES - 
+CLM-0154,POL-0072,10/30/2025,Life,Central,Medical,Paid,"KES 26,235","KES 26,235"," KES 26,235 "
+CLM-0155,POL-0079,3/11/2026,Property,Coast,Theft,Pending,"KES 26,372",KES 0," KES 26,372 "
+CLM-0156,POL-0086,7/21/2026,Health,Nairobi,Property Damage,Rejected,"KES 26,509",KES 0, KES - 
+CLM-0157,POL-0093,11/30/2025,Motor,Rift Valley,Accident,Paid,"KES 26,646","KES 26,646"," KES 26,646 "
+CLM-0158,POL-0100,4/11/2026,Life,Western,Medical,Pending,"KES 26,783",KES 0," KES 26,783 "
+CLM-0159,POL-0107,8/21/2026,Property,Central,Theft,Rejected,"KES 26,920",KES 0, KES - 
+CLM-0160,POL-0114,12/31/2025,Health,Coast,Property Damage,Paid,"KES 27,057","KES 27,057"," KES 27,057 "
+CLM-0161,POL-0121,5/12/2026,Motor,Nairobi,Accident,Pending,"KES 27,194",KES 0," KES 27,194 "
+CLM-0162,POL-0128,9/21/2026,Life,Rift Valley,Medical,Rejected,"KES 27,331",KES 0, KES - 
+CLM-0163,POL-0135,1/31/2026,Property,Western,Theft,Paid,"KES 27,468","KES 27,468"," KES 27,468 "
+CLM-0164,POL-0142,6/12/2026,Health,Central,Property Damage,Pending,"KES 27,605",KES 0," KES 27,605 "
+CLM-0165,POL-0149,10/22/2026,Motor,Coast,Accident,Rejected,"KES 27,742",KES 0, KES - 
+CLM-0166,POL-0156,3/3/2026,Life,Nairobi,Medical,Paid,"KES 27,879","KES 27,879"," KES 27,879 "
+CLM-0167,POL-0163,7/13/2026,Property,Rift Valley,Theft,Pending,"KES 28,016",KES 0," KES 28,016 "
+CLM-0168,POL-0170,11/22/2025,Health,Western,Property Damage,Rejected,"KES 28,153",KES 0, KES - 
+CLM-0169,POL-0177,4/3/2025,Motor,Central,Accident,Paid,"KES 28,290","KES 28,290"," KES 28,290 "
+CLM-0170,POL-0184,8/13/2025,Life,Coast,Medical,Pending,"KES 28,427",KES 0," KES 28,427 "
+CLM-0171,POL-0191,12/23/2025,Property,Nairobi,Theft,Rejected,"KES 28,564",KES 0, KES - 
+CLM-0172,POL-0198,5/4/2025,Health,Rift Valley,Property Damage,Paid,"KES 28,701","KES 28,701"," KES 28,701 "
+CLM-0173,POL-0205,9/13/2025,Motor,Western,Accident,Pending,"KES 28,838",KES 0," KES 28,838 "
+CLM-0174,POL-0212,1/23/2026,Life,Central,Medical,Rejected,"KES 28,975",KES 0, KES - 
+CLM-0175,POL-0219,6/4/2025,Property,Coast,Theft,Paid,"KES 29,112","KES 29,112"," KES 29,112 "
+CLM-0176,POL-0226,10/14/2025,Health,Nairobi,Property Damage,Pending,"KES 29,249",KES 0," KES 29,249 "
+CLM-0177,POL-0233,2/23/2026,Motor,Rift Valley,Accident,Rejected,"KES 29,386",KES 0, KES - 
+CLM-0178,POL-0240,7/5/2025,Life,Western,Medical,Paid,"KES 29,523","KES 29,523"," KES 29,523 "
+CLM-0179,POL-0247,11/14/2025,Property,Central,Theft,Pending,"KES 29,660",KES 0," KES 29,660 "
+CLM-0180,POL-0254,3/26/2026,Health,Coast,Property Damage,Rejected,"KES 29,797",KES 0, KES - 
+CLM-0181,POL-0261,8/5/2025,Motor,Nairobi,Accident,Paid,"KES 29,934","KES 29,934"," KES 29,934 "
+CLM-0182,POL-0268,12/15/2025,Life,Rift Valley,Medical,Pending,"KES 30,071",KES 0," KES 30,071 "
+CLM-0183,POL-0275,4/26/2026,Property,Western,Theft,Rejected,"KES 30,208",KES 0, KES - 
+CLM-0184,POL-0282,9/5/2025,Health,Central,Property Damage,Paid,"KES 30,345","KES 30,345"," KES 30,345 "
+CLM-0185,POL-0289,1/15/2026,Motor,Coast,Accident,Pending,"KES 30,482",KES 0," KES 30,482 "
+CLM-0186,POL-0296,5/27/2026,Life,Nairobi,Medical,Rejected,"KES 30,619",KES 0, KES - 
+CLM-0187,POL-0303,10/6/2025,Property,Rift Valley,Theft,Paid,"KES 30,756","KES 30,756"," KES 30,756 "
+CLM-0188,POL-0310,2/15/2026,Health,Western,Property Damage,Pending,"KES 30,893",KES 0," KES 30,893 "
+CLM-0189,POL-0317,6/27/2026,Motor,Central,Accident,Rejected,"KES 31,030",KES 0, KES - 
+CLM-0190,POL-0324,11/6/2025,Life,Coast,Medical,Paid,"KES 31,167","KES 31,167"," KES 31,167 "
+CLM-0191,POL-0331,3/18/2026,Property,Nairobi,Theft,Pending,"KES 31,304",KES 0," KES 31,304 "
+CLM-0192,POL-0338,7/28/2026,Health,Rift Valley,Property Damage,Rejected,"KES 31,441",KES 0, KES - 
+CLM-0193,POL-0345,12/7/2025,Motor,Western,Accident,Paid,"KES 31,578","KES 31,578"," KES 31,578 "
+CLM-0194,POL-0352,4/18/2026,Life,Central,Medical,Pending,"KES 31,715",KES 0," KES 31,715 "
+CLM-0195,POL-0359,8/28/2026,Property,Coast,Theft,Rejected,"KES 31,852",KES 0, KES - 
+CLM-0196,POL-0366,1/7/2025,Health,Nairobi,Property Damage,Paid,"KES 31,989","KES 31,989"," KES 31,989 "
+CLM-0197,POL-0373,5/19/2025,Motor,Rift Valley,Accident,Pending,"KES 32,126",KES 0," KES 32,126 "
+CLM-0198,POL-0380,9/28/2025,Life,Western,Medical,Rejected,"KES 32,263",KES 0, KES - 
+CLM-0199,POL-0387,2/7/2026,Property,Central,Theft,Paid,"KES 32,400","KES 32,400"," KES 32,400 "
+CLM-0200,POL-0394,6/19/2025,Health,Coast,Property Damage,Pending,"KES 32,537",KES 0," KES 32,537 "
+CLM-0201,POL-0401,10/29/2025,Motor,Nairobi,Accident,Rejected,"KES 32,674",KES 0, KES - 
+CLM-0202,POL-0408,3/10/2026,Life,Rift Valley,Medical,Paid,"KES 32,811","KES 32,811"," KES 32,811 "
+CLM-0203,POL-0415,7/20/2025,Property,Western,Theft,Pending,"KES 32,948",KES 0," KES 32,948 "
+CLM-0204,POL-0422,11/29/2025,Health,Central,Property Damage,Rejected,"KES 33,085",KES 0, KES - 
+CLM-0205,POL-0429,4/10/2026,Motor,Coast,Accident,Paid,"KES 33,222","KES 33,222"," KES 33,222 "
+CLM-0206,POL-0436,8/20/2025,Life,Nairobi,Medical,Pending,"KES 33,359",KES 0," KES 33,359 "
+CLM-0207,POL-0443,12/30/2025,Property,Rift Valley,Theft,Rejected,"KES 33,496",KES 0, KES - 
+CLM-0208,POL-0450,5/11/2026,Health,Western,Property Damage,Paid,"KES 33,633","KES 33,633"," KES 33,633 "
+CLM-0209,POL-0457,9/20/2025,Motor,Central,Accident,Pending,"KES 33,770",KES 0," KES 33,770 "
+CLM-0210,POL-0464,1/30/2026,Life,Coast,Medical,Rejected,"KES 33,907",KES 0, KES - 
+CLM-0211,POL-0471,6/11/2026,Property,Nairobi,Theft,Paid,"KES 34,044","KES 34,044"," KES 34,044 "
+CLM-0212,POL-0478,10/21/2025,Health,Rift Valley,Property Damage,Pending,"KES 34,181",KES 0," KES 34,181 "
+CLM-0213,POL-0485,3/2/2026,Motor,Western,Accident,Rejected,"KES 34,318",KES 0, KES - 
+CLM-0214,POL-0492,7/12/2026,Life,Central,Medical,Paid,"KES 34,455","KES 34,455"," KES 34,455 "
+CLM-0215,POL-0499,11/21/2025,Property,Coast,Theft,Pending,"KES 34,592",KES 0," KES 34,592 "
+CLM-0216,POL-0006,12/18/2025,Health,Nairobi,Property Damage,Rejected,"KES 34,729",KES 0, KES - 
+CLM-0217,POL-0013,4/29/2026,Motor,Rift Valley,Accident,Paid,"KES 34,866","KES 34,866"," KES 34,866 "
+CLM-0218,POL-0020,9/8/2026,Life,Western,Medical,Pending,"KES 35,003",KES 0," KES 35,003 "
+CLM-0219,POL-0027,1/18/2026,Property,Central,Theft,Rejected,"KES 35,140",KES 0, KES - 
+CLM-0220,POL-0034,5/30/2026,Health,Coast,Property Damage,Paid,"KES 35,277","KES 35,277"," KES 35,277 "
+CLM-0221,POL-0041,10/9/2026,Motor,Nairobi,Accident,Pending,"KES 35,414",KES 0," KES 35,414 "
+CLM-0222,POL-0048,2/18/2026,Life,Rift Valley,Medical,Rejected,"KES 35,551",KES 0, KES - 
+CLM-0223,POL-0055,6/30/2026,Property,Western,Theft,Paid,"KES 35,688","KES 35,688"," KES 35,688 "
+CLM-0224,POL-0062,11/9/2025,Health,Central,Property Damage,Pending,"KES 35,825",KES 0," KES 35,825 "
+CLM-0225,POL-0069,3/21/2025,Motor,Coast,Accident,Rejected,"KES 35,962",KES 0, KES - 
+CLM-0226,POL-0076,7/31/2025,Life,Nairobi,Medical,Paid,"KES 36,099","KES 36,099"," KES 36,099 "
+CLM-0227,POL-0083,12/10/2025,Property,Rift Valley,Theft,Pending,"KES 36,236",KES 0," KES 36,236 "
+CLM-0228,POL-0090,4/21/2025,Health,Western,Property Damage,Rejected,"KES 36,373",KES 0, KES - 
+CLM-0229,POL-0097,8/31/2025,Motor,Central,Accident,Paid,"KES 36,510","KES 36,510"," KES 36,510 "
+CLM-0230,POL-0104,1/10/2026,Life,Coast,Medical,Pending,"KES 36,647",KES 0," KES 36,647 "
+CLM-0231,POL-0111,5/22/2025,Property,Nairobi,Theft,Rejected,"KES 36,784",KES 0, KES - 
+CLM-0232,POL-0118,10/1/2025,Health,Rift Valley,Property Damage,Paid,"KES 36,921","KES 36,921"," KES 36,921 "
+CLM-0233,POL-0125,2/10/2026,Motor,Western,Accident,Pending,"KES 37,058",KES 0," KES 37,058 "
+CLM-0234,POL-0132,6/22/2025,Life,Central,Medical,Rejected,"KES 37,195",KES 0, KES - 
+CLM-0235,POL-0139,11/1/2025,Property,Coast,Theft,Paid,"KES 37,332","KES 37,332"," KES 37,332 "
+CLM-0236,POL-0146,3/13/2026,Health,Nairobi,Property Damage,Pending,"KES 37,469",KES 0," KES 37,469 "
+CLM-0237,POL-0153,7/23/2025,Motor,Rift Valley,Accident,Rejected,"KES 37,606",KES 0, KES - 
+CLM-0238,POL-0160,12/2/2025,Life,Western,Medical,Paid,"KES 37,743","KES 37,743"," KES 37,743 "
+CLM-0239,POL-0167,4/13/2026,Property,Central,Theft,Pending,"KES 37,880",KES 0," KES 37,880 "
+CLM-0240,POL-0174,8/23/2025,Health,Coast,Property Damage,Rejected,"KES 38,017",KES 0, KES - 
+CLM-0241,POL-0181,1/2/2026,Motor,Nairobi,Accident,Paid,"KES 38,154","KES 38,154"," KES 38,154 "
+CLM-0242,POL-0188,5/14/2026,Life,Rift Valley,Medical,Pending,"KES 38,291",KES 0," KES 38,291 "
+CLM-0243,POL-0195,9/23/2025,Property,Western,Theft,Rejected,"KES 38,428",KES 0, KES - 
+CLM-0244,POL-0202,2/2/2026,Health,Central,Property Damage,Paid,"KES 38,565","KES 38,565"," KES 38,565 "
+CLM-0245,POL-0209,6/14/2026,Motor,Coast,Accident,Pending,"KES 38,702",KES 0," KES 38,702 "
+CLM-0246,POL-0216,10/24/2025,Life,Nairobi,Medical,Rejected,"KES 38,839",KES 0, KES - 
+CLM-0247,POL-0223,3/5/2026,Property,Rift Valley,Theft,Paid,"KES 38,976","KES 38,976"," KES 38,976 "
+CLM-0248,POL-0230,7/15/2026,Health,Western,Property Damage,Pending,"KES 39,113",KES 0," KES 39,113 "
+CLM-0249,POL-0237,11/24/2026,Motor,Central,Accident,Rejected,"KES 39,250",KES 0, KES - 
+CLM-0250,POL-0244,4/5/2026,Life,Coast,Medical,Paid,"KES 39,387","KES 39,387"," KES 39,387 "
